@@ -1,0 +1,40 @@
+.loginform{
+    /* width:40%; */
+    border-radius: 20px;
+    margin:0 20px 10px 20px;
+}
+
+.image{
+    width:40px;
+    height:40px;
+    padding-right: 10px;
+}
+
+.line{
+    border-bottom: 1px solid gray;
+    width: 100%;
+}
+
+.loginform{
+    padding:0px;
+    margin:30px;
+}
+.registerform{
+    width:40%
+}
+.form-group{
+    padding-bottom:10px;
+}
+.active {
+    font-weight: bold;
+  }
+
+.navbar{
+    background-color: #c7c3ca;
+
+}
+.profile{
+    padding:0px !important;
+    line-height: 20px;
+}
+

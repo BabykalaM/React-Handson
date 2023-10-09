@@ -1,0 +1,57 @@
+.form{
+    width:40%
+}
+
+.addform{
+    float:right
+}
+
+.search{
+
+   width:80%;
+   text-align: left;
+   margin-left: 32%;
+}
+
+.searchInput{
+    outline: none;
+    width:50%
+}
+.searchInputContent{
+    border:none;
+    outline:none;
+    width:100%;
+}
+/* .search span {
+    font-size: 20px; 
+    border-left: 1px solid rgb(135, 134, 134); 
+    padding:0 10px;
+
+  } */
+
+  .bannerMsg{
+    margin-left:10%;
+    width:40%;
+    text-align: center;
+  }
+
+  .searchcontent{
+    padding:10px;
+    position: absolute;
+    z-index: 0;
+    background-color: white;
+    width: 39.5%;
+    border: 1px solid rgb(151, 149, 149);
+    border-radius: 5px;
+  }
+
+  .hover-effect:hover {
+    background-color: #e7e6e6; 
+  }
+  
+  
+
+
+  
+  
+  
